@@ -81,3 +81,8 @@ print(response.json())
 ```
 {"xp_gained": xp}
 ```
+## UML Diagram
+
+<p align="center">
+    <img width="604" alt="Screenshot 2024-05-22 at 4 39 30 PM" src="https://github.com/Iago-7/Experience-Points-Converter/assets/71855991/1c48b5f3-3cf5-4256-9b93-4be9efc06cb4"/>
+</p>
